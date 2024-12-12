@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/josem/portcanto/portcanto/mlruns/972040208516731911/7645237953eb4e8ea07d14dc6147351b/artifacts
+end_time: 1734003182401
+entry_point_name: ''
+experiment_id: '972040208516731911'
+lifecycle_stage: active
+run_id: 7645237953eb4e8ea07d14dc6147351b
+run_name: merciful-newt-385
+run_uuid: 7645237953eb4e8ea07d14dc6147351b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734003181301
+status: 3
+tags: []
+user_id: josem

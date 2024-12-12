@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/josem/portcanto/portcanto/mlruns/972040208516731911/01f426eabac641a68497ec310eccfcf4/artifacts
+end_time: 1734003185313
+entry_point_name: ''
+experiment_id: '972040208516731911'
+lifecycle_stage: active
+run_id: 01f426eabac641a68497ec310eccfcf4
+run_name: abrasive-bat-143
+run_uuid: 01f426eabac641a68497ec310eccfcf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734003184339
+status: 3
+tags: []
+user_id: josem

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/josem/portcanto/portcanto/mlruns/972040208516731911/bb78dbcbd53d41ca8ef7fc785f789a74/artifacts
+end_time: 1734003183362
+entry_point_name: ''
+experiment_id: '972040208516731911'
+lifecycle_stage: active
+run_id: bb78dbcbd53d41ca8ef7fc785f789a74
+run_name: victorious-fly-780
+run_uuid: bb78dbcbd53d41ca8ef7fc785f789a74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734003182418
+status: 3
+tags: []
+user_id: josem

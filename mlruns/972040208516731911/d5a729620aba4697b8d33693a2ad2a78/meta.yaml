@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/josem/portcanto/portcanto/mlruns/972040208516731911/d5a729620aba4697b8d33693a2ad2a78/artifacts
+end_time: 1734003187267
+entry_point_name: ''
+experiment_id: '972040208516731911'
+lifecycle_stage: active
+run_id: d5a729620aba4697b8d33693a2ad2a78
+run_name: beautiful-lynx-913
+run_uuid: d5a729620aba4697b8d33693a2ad2a78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734003186305
+status: 3
+tags: []
+user_id: josem

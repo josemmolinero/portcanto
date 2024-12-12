@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/josem/portcanto/portcanto/mlruns/972040208516731911/ce6a748bd92c41cfa59aeea2ea057aee/artifacts
+end_time: 1734003188241
+entry_point_name: ''
+experiment_id: '972040208516731911'
+lifecycle_stage: active
+run_id: ce6a748bd92c41cfa59aeea2ea057aee
+run_name: clumsy-trout-284
+run_uuid: ce6a748bd92c41cfa59aeea2ea057aee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734003187282
+status: 3
+tags: []
+user_id: josem

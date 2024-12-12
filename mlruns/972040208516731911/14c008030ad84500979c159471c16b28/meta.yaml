@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/josem/portcanto/portcanto/mlruns/972040208516731911/14c008030ad84500979c159471c16b28/artifacts
+end_time: 1734003186291
+entry_point_name: ''
+experiment_id: '972040208516731911'
+lifecycle_stage: active
+run_id: 14c008030ad84500979c159471c16b28
+run_name: powerful-dove-254
+run_uuid: 14c008030ad84500979c159471c16b28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734003185331
+status: 3
+tags: []
+user_id: josem
