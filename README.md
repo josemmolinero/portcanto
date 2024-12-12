@@ -1,4 +1,4 @@
-# Table of contents
+# Índex
 1. [Port del Cantó: Simulació de Ciclisme i Anàlisi amb IA](#portcanto)
 2. [Descripció del Projecte](#descripcio)
 3. [Objectius](#objectius)
