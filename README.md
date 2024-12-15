@@ -89,14 +89,18 @@ Per configurar l’entorn virtual i instal·lar les dependències necessàries, 
    Resultat esperat: `Python 3.11.7`
 
 4. Instal·lar les llibreries necessàries:
+   
+   Opció a partir del fitxer requirements:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
+   Opció a partir de llibreries:
+
    ```bash
    pip install --upgrade pip
    pip install numpy pandas seaborn scikit-learn mlflow pylint pdoc
-   ```
-
-5. Generar el fitxer `requirements.txt` per documentar les dependències:
-   ```bash
-   pip freeze > requirements.txt
    ```
 
 ### Generació de Documentació <a name="documentacio"></a>
